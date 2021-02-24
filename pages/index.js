@@ -1,18 +1,3 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import index from "../src/pages/Index/Index";
 
-export default function Home() {
-  return (
-    <div className={styles.container}>
-      <Head>
-        <title>Welcome</title>
-      </Head>
-
-      <main className={styles.main}>
-        <h1 className={styles.title} style={{ textTransform: "uppercase" }}>
-          Under Construction
-        </h1>
-      </main>
-    </div>
-  )
-}
+export default index;
