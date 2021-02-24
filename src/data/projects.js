@@ -32,8 +32,8 @@ export default [
       }
     ],
     links: {
-      github: "https://github.com/LJEsp/template-portfolio-humility",
-      demo: "https://ljesp-template-portfolio-humility.netlify.com/"
+      github: "#",
+      demo: "#"
     }
   },
   {
@@ -69,8 +69,8 @@ export default [
       }
     ],
     links: {
-      github: "https://github.com/LJEsp/template-portfolio-humility",
-      demo: "https://ljesp-template-portfolio-humility.netlify.com/"
+      github: "#",
+      demo: "#"
     }
   },
   {
@@ -106,8 +106,8 @@ export default [
       }
     ],
     links: {
-      github: "https://github.com/LJEsp/template-portfolio-humility",
-      demo: "https://ljesp-template-portfolio-humility.netlify.com/"
+      github: "#",
+      demo: "#"
     }
   },
   {
@@ -142,8 +142,8 @@ export default [
       }
     ],
     links: {
-      github: "https://github.com/LJEsp/template-portfolio-humility",
-      demo: "https://ljesp-template-portfolio-humility.netlify.com/"
+      github: "#",
+      demo: "#"
     }
   },
   {
@@ -179,8 +179,8 @@ export default [
       }
     ],
     links: {
-      github: "https://github.com/LJEsp/template-portfolio-humility",
-      demo: "https://ljesp-template-portfolio-humility.netlify.com/"
+      github: "#",
+      demo: "#"
     }
   }
 ];
